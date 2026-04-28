@@ -57,7 +57,7 @@ movie-rating-app/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-   git clone https://github.com/your-username/movie-rating-app.git  
+   git clone https://github.com/chavannandini28/Movie-Rating-App.git
 
 2. Install dependencies  
    npm install  

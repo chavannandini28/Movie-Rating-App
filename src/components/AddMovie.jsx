@@ -1,6 +1,7 @@
 import { useState } from "react"
+import { Link } from "react-router-dom"
 
-function AddMovie({addMovie}){
+function AddMovie({ addMovie }) {
 
 const [title,setTitle] = useState("")
 const [rating,setRating] = useState("")
@@ -57,6 +58,14 @@ Add Movie
 </button>
 
 </form>
+
+<br/>
+
+<Link to="/">
+<button className="backbtn">
+Back
+</button>
+</Link>
 
 </div>
 

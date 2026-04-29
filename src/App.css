@@ -56,3 +56,12 @@ padding:20px;
 background:black;
 color:white;
 }
+
+.backbtn{
+background:black;
+color:white;
+border:none;
+padding:8px 15px;
+cursor:pointer;
+margin-top:10px;
+}
